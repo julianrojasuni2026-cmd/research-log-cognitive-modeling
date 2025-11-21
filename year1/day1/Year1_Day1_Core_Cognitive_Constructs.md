@@ -44,3 +44,19 @@ This architecture addresses those limitations through:
 - **Neural generative models** to extract meaning-rich representations from natural language.  
 
 The hybrid probabilistic–neural framework aligns closely with Poldrack’s vision for integrating cognitive structure into computational models and represents a novel pathway toward scientifically grounded personalized AI systems.
+
+4. Preliminary Forward-Looking Note (For Expert Review)
+
+(Optional section designed to signal research maturity)
+
+Although this document focuses on the foundational constructs, I am currently preparing a follow-up technical note that will formally specify:
+	1.	A first-pass mapping between Cognitive Atlas constructs and measurable interaction features (response time variance, conflict indicators, meta-cognitive uncertainty markers).
+	2.	A prototype structure of the Bayesian inference layer, including priors for cognitive load, task engagement, and prediction error.
+	3.	A draft “Cognitive State Transition Graph”, inspired by reinforcement-learning state models but constrained by cognitive ontology relationships rather than arbitrary state definitions.
+	4.	A validation plan comparing construct-driven inference vs. behavior-driven heuristics in personalization performance.
+
+This upcoming note aims to test one early hypothesis:
+
+“Systems grounded in explicit cognitive constructs produce more stable and interpretable user-state estimates than systems relying solely on behavioral correlations.”
+
+This hypothesis directly aligns with current questions in cognitive ontology and computational modeling and will be the basis of Year 1 — Day 2 in this research log.
